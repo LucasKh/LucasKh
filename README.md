@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LucasKh
 - 👀 I’m interested in new languages
 - 🌱 I’m currently learning JavaScript, Html, Css
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Contact me via email: Louay_khaddaj@hotmail.com
 
 <!---
